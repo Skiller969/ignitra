@@ -1,3 +1,6 @@
+
+
+
 #header{
     text-align: center;
     font-size: 20px;
@@ -12,4 +15,19 @@
     font-size: 18px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+#search{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+#insearch{
+    padding: 7px;
+}
+#insearchbtn{
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 10px;
 }
